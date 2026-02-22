@@ -16,7 +16,7 @@ I am an aspiring Software Engineer focusing on backend development and data stru
 
 ### 📫 Contact
 
-* [LinkedIn]([https://www.linkedin.com/in/ayşenur-yılmaz-8999713ab/](https://www.linkedin.com/in/aysenurryilmazz/?isSelfProfile=true)
+* [LinkedIn](www.linkedin.com/in/aysenurryilmazz)
 * [Email](mailto:aysenuryl819@gmail.com)
 
 ---
