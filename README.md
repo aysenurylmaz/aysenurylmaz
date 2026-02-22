@@ -22,5 +22,5 @@ I am an aspiring Software Engineer focusing on backend development and data stru
 ---
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=aysenurylmaz&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" height="150" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=aysenurylmaz&show_icons=true&theme=dark" alt="GitHub Stats" height="150" />
 </p>
