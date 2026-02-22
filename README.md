@@ -1,16 +1,26 @@
-## Hi there 👋
+# Ayşenur Yılmaz
 
-<!--
-**aysenurylmaz/aysenurylmaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Software Engineering Student | Sakarya University**
 
-Here are some ideas to get you started:
+I am an aspiring Software Engineer focusing on backend development and data structures. Currently working on corporate system architectures, database management, and algorithmic solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠 Technical Skills
+
+* **Languages:** C#, C++, Java, SQL
+* **Technologies:** .NET Core MVC, Entity Framework, MS SQL Server
+* **Specialties:** Data Structures & Algorithms, Object-Oriented Programming (OOP)
+
+---
+
+### 📫 Contact
+
+* [LinkedIn](https://www.linkedin.com/in/ayşenur-yılmaz-8999713ab/)
+* [Email](mailto:aysenuryl819@gmail.com)
+
+---
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=aysenurylmaz&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" height="150" />
+</p>
